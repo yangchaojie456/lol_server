@@ -1,6 +1,10 @@
 node_modules
-public/images
-data_json/**
-!data_json/1.txt
-temp_json/**
-!temp_json/1.txt
+public/images/*/*.png
+public/images/*/*.jpg
+data_json/*.json
+data_json/*/*.html
+data_json/*/*.json
+temp_json/*.js
+temp_json/*.json
+temp_json/*/*.json
+temp_json/*/*.js
