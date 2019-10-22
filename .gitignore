@@ -1,0 +1,6 @@
+node_modules
+public/images
+data_json/**
+!data_json/1.txt
+temp_json/**
+!temp_json/1.txt
